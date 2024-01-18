@@ -1,0 +1,16 @@
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    color: #fff;
+    font-size: 14px;
+}
+footer span {
+    color: gold;
+}

@@ -1,0 +1,43 @@
+.blog .box img{
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.blog .text {
+    max-width: 50%;
+    color: white;
+    margin: 15% 0 0 10%;
+}
+.blog h1 {
+    font-size: 80px;
+    font-weight: 400;
+}
+.blog p {
+    font-weight: 400;
+    line-height: 25px;
+    font-family: sans-serif;
+    font-size: 17px;
+    margin: 10px 0 0 50px;
+}
+.blog button {
+    padding: 20px 40px;
+    background: none;
+    outline: none;
+    border: 2px solid white;
+    border-radius: 50px;
+    color: white;
+    margin-top: 20px;
+    margin: 30px;
+    
+}
+.blog button {
+    margin-left: 50px;
+}
+.blog button:hover {
+    border: 2px solid gold;
+    color: gold;
+}
